@@ -1,0 +1,36 @@
+﻿  SolarPanelInspection.cpp
+d:\visualstudio2013project\projects\solarpanelinspection\solarpanelinspection\solarpanelinspection.cpp(785): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\visualstudio2013project\projects\solarpanelinspection\solarpanelinspection\library.h(201): warning C4018: '<=': signed/unsigned mismatch
+  d:\visualstudio2013project\projects\solarpanelinspection\solarpanelinspection\solarpanelinspection.cpp(709): note: see reference to function template instantiation 'void MNDT::Screenshot8bit<double>(const Image &,T *,const Rect &)' being compiled
+          with
+          [
+              T=double
+          ]
+d:\visualstudio2013project\projects\solarpanelinspection\solarpanelinspection\kmean.h(133): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  d:\visualstudio2013project\projects\solarpanelinspection\solarpanelinspection\kmean.h(132): note: while compiling class template member function 'void KMean<double>::RandData(std::vector<double *,std::allocator<_Ty>> &,C_UINT32)'
+          with
+          [
+              _Ty=double *
+          ]
+  d:\visualstudio2013project\projects\solarpanelinspection\solarpanelinspection\kmean.h(174): note: see reference to function template instantiation 'void KMean<double>::RandData(std::vector<double *,std::allocator<_Ty>> &,C_UINT32)' being compiled
+          with
+          [
+              _Ty=double *
+          ]
+  d:\visualstudio2013project\projects\solarpanelinspection\solarpanelinspection\kmean.h(83): note: while compiling class template member function 'KMean<double>::KMean(const std::string &)'
+  d:\visualstudio2013project\projects\solarpanelinspection\solarpanelinspection\solarpanelinspection.cpp(826): note: see reference to function template instantiation 'KMean<double>::KMean(const std::string &)' being compiled
+  d:\visualstudio2013project\projects\solarpanelinspection\solarpanelinspection\solarpanelinspection.cpp(743): note: see reference to class template instantiation 'KMean<double>' being compiled
+d:\visualstudio2013project\projects\solarpanelinspection\solarpanelinspection\kmean.h(148): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  d:\visualstudio2013project\projects\solarpanelinspection\solarpanelinspection\kmean.h(147): note: while compiling class template member function 'void KMean<double>::RandDataD(std::vector<double *,std::allocator<_Ty>> &,C_UINT32)'
+          with
+          [
+              _Ty=double *
+          ]
+  d:\visualstudio2013project\projects\solarpanelinspection\solarpanelinspection\kmean.h(170): note: see reference to function template instantiation 'void KMean<double>::RandDataD(std::vector<double *,std::allocator<_Ty>> &,C_UINT32)' being compiled
+          with
+          [
+              _Ty=double *
+          ]
+d:\visualstudio2013project\projects\solarpanelinspection\solarpanelinspection\solarpanelinspection.cpp(105): warning C4715: 'GetRealRect': not all control paths return a value
+  SolarPanelInspection.vcxproj -> D:\VisualStudio2013Project\Projects\SolarPanelInspection\Debug\SolarPanelInspection.exe
+  SolarPanelInspection.vcxproj -> D:\VisualStudio2013Project\Projects\SolarPanelInspection\Debug\SolarPanelInspection.pdb (Full PDB)

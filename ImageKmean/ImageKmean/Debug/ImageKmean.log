@@ -1,0 +1,21 @@
+﻿  ImageKmean.cpp
+d:\visual studio 2013 project\projects\imagekmean\imagekmean\imagekmean.cpp(27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\visual studio 2013 project\projects\imagekmean\imagekmean\imagekmean.cpp(40): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\visual studio 2013 project\projects\imagekmean\imagekmean\kmeam.h(124): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  d:\visual studio 2013 project\projects\imagekmean\imagekmean\kmeam.h(123): note: while compiling class template member function 'void KMeam<INT32>::RandData(std::vector<T *,std::allocator<_Ty>> &,C_UINT32)'
+          with
+          [
+              T=INT32,
+              _Ty=INT32 *
+          ]
+  d:\visual studio 2013 project\projects\imagekmean\imagekmean\kmeam.h(159): note: see reference to function template instantiation 'void KMeam<INT32>::RandData(std::vector<T *,std::allocator<_Ty>> &,C_UINT32)' being compiled
+          with
+          [
+              T=INT32,
+              _Ty=INT32 *
+          ]
+  d:\visual studio 2013 project\projects\imagekmean\imagekmean\kmeam.h(74): note: while compiling class template member function 'KMeam<INT32>::~KMeam(void)'
+  d:\visual studio 2013 project\projects\imagekmean\imagekmean\imagekmean.cpp(160): note: see reference to function template instantiation 'KMeam<INT32>::~KMeam(void)' being compiled
+  d:\visual studio 2013 project\projects\imagekmean\imagekmean\imagekmean.cpp(160): note: see reference to class template instantiation 'KMeam<INT32>' being compiled
+  ImageKmean.vcxproj -> D:\Visual Studio 2013 Project\Projects\ImageKmean\Debug\ImageKmean.exe
+  ImageKmean.vcxproj -> D:\Visual Studio 2013 Project\Projects\ImageKmean\Debug\ImageKmean.pdb (Full PDB)

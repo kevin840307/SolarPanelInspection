@@ -1,0 +1,27 @@
+﻿  stdafx.cpp
+  Bitmap.cpp
+  draw.cpp
+  general.cpp
+  HOG.cpp
+  Hough.cpp
+  Image.cpp
+  Library.cpp
+Library.cpp(454): warning C4018: '<=': signed/unsigned mismatch
+Library.cpp(466): warning C4018: '<=': signed/unsigned mismatch
+Library.cpp(568): warning C4018: '<': signed/unsigned mismatch
+Library.cpp(570): warning C4018: '<': signed/unsigned mismatch
+Library.cpp(604): warning C4018: '<': signed/unsigned mismatch
+Library.cpp(722): warning C4018: '<': signed/unsigned mismatch
+Library.cpp(724): warning C4018: '<': signed/unsigned mismatch
+Library.cpp(862): warning C4018: '<': signed/unsigned mismatch
+Library.cpp(864): warning C4018: '<': signed/unsigned mismatch
+Library.cpp(912): warning C4018: '<': signed/unsigned mismatch
+  Point.cpp
+  Rect.cpp
+  SolarPanelInspection.cpp
+  Generating code
+d:\visual studio 2013 project\projects\solarpanelinspection\solarpanelinspection\solarpanelinspection.cpp(100): warning C4715: 'GetRealRect': not all control paths return a value
+  All 818 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SolarPanelInspection.vcxproj -> D:\Visual Studio 2013 Project\Projects\SolarPanelInspection\x64\Release\SolarPanelInspection.exe
+  SolarPanelInspection.vcxproj -> D:\Visual Studio 2013 Project\Projects\SolarPanelInspection\x64\Release\SolarPanelInspection.pdb (Full PDB)

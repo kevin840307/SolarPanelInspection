@@ -1,0 +1,40 @@
+﻿  SolarPanelInspection.cpp
+SolarPanelInspection.cpp(810): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\visualstudio2013project\projects\solarpanelinspection\solarpanelinspection\Library.h(201): warning C4018: '<=': signed/unsigned mismatch
+  SolarPanelInspection.cpp(718): note: see reference to function template instantiation 'void MNDT::Screenshot8bit<double>(const Image &,T *,const Rect &)' being compiled
+          with
+          [
+              T=double
+          ]
+d:\visualstudio2013project\projects\solarpanelinspection\solarpanelinspection\KMean.h(133): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  d:\visualstudio2013project\projects\solarpanelinspection\solarpanelinspection\KMean.h(132): note: while compiling class template member function 'void KMean<double>::RandData(std::vector<double *,std::allocator<_Ty>> &,C_UINT32)'
+          with
+          [
+              _Ty=double *
+          ]
+  d:\visualstudio2013project\projects\solarpanelinspection\solarpanelinspection\KMean.h(174): note: see reference to function template instantiation 'void KMean<double>::RandData(std::vector<double *,std::allocator<_Ty>> &,C_UINT32)' being compiled
+          with
+          [
+              _Ty=double *
+          ]
+  d:\visualstudio2013project\projects\solarpanelinspection\solarpanelinspection\KMean.h(83): note: while compiling class template member function 'KMean<double>::KMean(const std::string &)'
+  SolarPanelInspection.cpp(864): note: see reference to function template instantiation 'KMean<double>::KMean(const std::string &)' being compiled
+  SolarPanelInspection.cpp(763): note: see reference to class template instantiation 'KMean<double>' being compiled
+d:\visualstudio2013project\projects\solarpanelinspection\solarpanelinspection\KMean.h(148): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  d:\visualstudio2013project\projects\solarpanelinspection\solarpanelinspection\KMean.h(147): note: while compiling class template member function 'void KMean<double>::RandDataD(std::vector<double *,std::allocator<_Ty>> &,C_UINT32)'
+          with
+          [
+              _Ty=double *
+          ]
+  d:\visualstudio2013project\projects\solarpanelinspection\solarpanelinspection\KMean.h(170): note: see reference to function template instantiation 'void KMean<double>::RandDataD(std::vector<double *,std::allocator<_Ty>> &,C_UINT32)' being compiled
+          with
+          [
+              _Ty=double *
+          ]
+  Generating code
+  45 of 1356 functions ( 3.3%) were compiled, the rest were copied from previous compilation.
+    36 functions were new in current compilation
+    39 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SolarPanelInspection.vcxproj -> D:\VisualStudio2013Project\Projects\SolarPanelInspection\Release\SolarPanelInspection.exe
+  SolarPanelInspection.vcxproj -> D:\VisualStudio2013Project\Projects\SolarPanelInspection\Release\SolarPanelInspection.pdb (Full PDB)
